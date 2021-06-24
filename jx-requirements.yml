@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: qyt1tahi.eastus.aroapp.io
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
